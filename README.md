@@ -8,7 +8,14 @@ The goal of this project is to build a recommender system that enhances the cust
 
 ## 📂 Repository Structure
 
-<pre lang="markdown"> <code>```text . ├── code/ # Folder that stores the code │ └── delete_me.txt # Placeholder (will be removed) ├── data/ # Folder that stores the dataset │ └── Sales Transaction v.4a.zip # Transactional dataset (compressed) └── README.md # Project documentation ```</code> </pre>
+```text
+.
+├── code/                          # Folder that stores the code
+│   └── delete_me.txt              # Placeholder (will be removed)
+├── data/                          # Folder that stores the dataset
+│   └── Sales Transaction v.4a.zip # Transactional dataset (compressed)
+└── README.md                      # Project documentation
+```
 
 ## 📈 Dataset
 
