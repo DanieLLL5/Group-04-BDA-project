@@ -11,7 +11,8 @@ The goal of this project is to build a recommender system that enhances the cust
 ```text
 .
 ├── code/                          # Folder that stores the code
-│   └── delete_me.txt              # Placeholder (will be removed)
+│   └── Group 04 - BDA Project.html              # Html version of the Databricks Notebook
+    └── Group 04 - BDA Project.ipynb             # Databricks notebook with the code.
 ├── data/                          # Folder that stores the dataset
 │   └── Sales Transaction v.4a.zip # Transactional dataset (compressed)
 └── README.md                      # Project documentation
