@@ -11,8 +11,8 @@ The goal of this project is to build a recommender system that enhances the cust
 ```text
 .
 ├── code/                          # Folder that stores the code
-│   └── Group 04 - BDA Project (01).ipynb    # Databricks Notebook with all the sets made in the project from EDA to Streaming
-    └── Group 04 - BDA Project (02).ipynb    # Databricks notebook with the GraphFrames implementation.
+│   └── Group 04 - BDA Project (01).ipynb   # Databricks Notebook with all the steps made in the project from EDA to Streaming
+    └── Group 04 - BDA Project (02).ipynb   # Databricks notebook with the GraphFrames implementation.
 ├── data/                          # Folder that stores the dataset
 │   └── Sales Transaction v.4a.zip # Transactional dataset (compressed)
 └── README.md                      # Project documentation
