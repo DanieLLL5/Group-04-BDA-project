@@ -15,6 +15,8 @@ The goal of this project is to build a recommender system that enhances the cust
     └── Group 04 - BDA Project (02).ipynb     # Databricks notebook with the GraphFrames implementation.
 ├── data/                          # Folder that stores the dataset
 │   └── Sales Transaction v.4a.zip # Transactional dataset (compressed)
+├── reporting/                     # Folder that stores the final report of the results
+│   └── Group 04 - BDA Project.pdf # Report of the final results in pdf format
 └── README.md                      # Project documentation
 ```
 
